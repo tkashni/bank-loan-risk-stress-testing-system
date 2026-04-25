@@ -12,13 +12,5 @@ banks and Big 4 advisory firms.
 - Stress Testing: Base / Mild / Severe scenarios
 - Executive Dashboard with KPIs & charts
 
-📊 Power BI Dashboard (4 Pages):
-- Executive Overview — KPIs, portfolio health
-- Risk Segmentation — by city, employment, credit band
-- Live Stress Simulator — What-If parameters (Basel III Pillar 2)
-- Customer Drilldown — drillthrough + RLS security
-
 ⚙️ Technical Stack:
-Excel · Power BI · DAX · Power Query · Basel III · IFRS 9
-
-🔗 [Power BI Live Link] | [GitHub Repo]
+Excel · Basel III · IFRS 9
