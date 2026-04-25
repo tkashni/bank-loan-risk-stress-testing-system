@@ -28,3 +28,5 @@ Simulated workflows aligned with enterprise-level risk management systems
 
 Achieved 17.5% approval rate optimization based on risk thresholds
 
+Dataset link: https://www.kaggle.com/datasets/algozee/credit-risk-and-loan-default-analysis-dataset/data
+
